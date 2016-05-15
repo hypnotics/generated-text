@@ -1,3 +1,8 @@
 # TEXT GENERATION
 
-Some scripts require WordNet downloaded.
+Requirements
+- WordNet
+- MacOSX speech
+- Python
+- NLTK
+ 
