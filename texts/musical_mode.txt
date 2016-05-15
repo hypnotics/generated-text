@@ -1,0 +1,22 @@
+Musical mode
+by Macropedius
+ 
+cocoon with a thundering Musical mode
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun musical_mode
+
+Sense 1
+<noun.communication> mode, musical mode
+       => <noun.communication> diatonic scale
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of verb cocoon
+
+Sense 1
+<verb.motion> cocoon
+       => <verb.motion> retreat2
+
+Similarity of adj thundering
+
+Sense 1
+<adj.all> thundering
+       => <adj.all> noisy (vs. quiet1)

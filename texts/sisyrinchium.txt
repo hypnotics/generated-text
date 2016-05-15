@@ -1,0 +1,22 @@
+Sisyrinchium
+by Macropedius
+ 
+
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun sisyrinchium
+
+Sense 1
+<noun.plant> Sisyrinchium, genus Sisyrinchium
+       => <noun.plant> liliid monocot genus
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of verb ice_over
+
+Sense 1
+<verb.weather> ice up, frost over, ice over
+       => <verb.change> change
+
+Similarity of adj suety
+
+Sense 1
+<adj.all> suety
+       => <adj.all> fatty (vs. nonfat), fat2

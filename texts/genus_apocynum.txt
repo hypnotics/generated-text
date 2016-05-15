@@ -1,0 +1,12 @@
+Genus apocynum
+by Macropedius
+ 
+Stick around despite a leatherlike counterexample.
+ 
+-------------------
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun genus_apocynum
+
+Sense 1
+<noun.plant> Apocynum, genus Apocynum
+       => <noun.plant> dicot genus, magnoliopsid genus

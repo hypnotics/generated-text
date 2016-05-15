@@ -1,0 +1,21 @@
+Sal ammoniac
+by Macropedius
+ 
+
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun sal_ammoniac
+
+Sense 1
+<noun.substance> ammonium chloride, sal ammoniac
+       => <noun.substance> salt
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of verb block_out
+
+Sense 1
+<verb.cognition> block out
+       => <verb.cognition> lay out
+
+Similarity of adj epicyclical
+
+Sense 1
+<adj.pert> epicyclic, epicyclical

@@ -1,0 +1,12 @@
+First sergeant
+by Macropedius
+ 
+./random_sentence.sh
+ 
+-------------------
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun first_sergeant
+
+Sense 1
+<noun.person> first sergeant, sergeant first class
+       => <noun.person> sergeant1

@@ -1,0 +1,22 @@
+Filipino
+by Macropedius
+ 
+cozy_up with a tenebrous Filipino
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun filipino
+
+Sense 1
+<noun.person> Filipino
+       => <noun.person> native, indigen, indigene, aborigine, aboriginal1
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of verb cozy_up
+
+Sense 1
+<verb.emotion> cozy up9, cotton up9, shine up9, play up9, sidle up9, suck up9
+       => <verb.emotion> ingratiate
+
+Similarity of adj tenebrous
+
+Sense 1
+<adj.all> tenebrous, tenebrific, tenebrious
+       => <adj.all> dark1 (vs. light6)

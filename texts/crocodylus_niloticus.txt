@@ -1,0 +1,12 @@
+Crocodylus niloticus
+by Macropedius
+ 
+Fossilize with a sprouted eastern cottonwood.
+ 
+-------------------
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun crocodylus_niloticus
+
+Sense 1
+<noun.animal> African crocodile, Nile crocodile, Crocodylus niloticus
+       => <noun.animal> crocodile

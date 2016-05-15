@@ -1,0 +1,81 @@
+.concordance = context
+.similar = similar words based on usage (context)
+.common_contexts(["monstrous", "very"])
+.generate() = generate text in the same style as, based on N-grams // removed in NLTK 3.0
+.dispersion_plot(["citizens", "democracy", "freedom", "duties", "America"])
+len(text3) = number of tokens / words and punctuations
+fdist1 = FreqDist(text2)
+fdist1.most_common(50)
+fdist1.plot(50, cumulative=True)
+
+// All w0rds longer that 7 occuring more than 7 times
+fdist5 = FreqDist(text5)
+sorted(w for w in set(text5) if len(w) > 7 and fdist5[w] > 7)
+
+Collocations and Bigrams
+.collocations()
+ list(bigrams(['more', 'is', 'said', 'than', 'done']))
+ 
+ Word Sense Disambiguation
+ 
+ Pronoun Resolution
+ 
+ Texts are represented in Python using lists: ['Monty', 'Python']. We can use indexing, slicing, and the len() function on lists.
+A word "token" is a particular appearance of a given word in a text; a word "type" is the unique form of the word as a particular sequence of letters. We count word tokens using len(text) and word types using len(set(text)).
+We obtain the vocabulary of a text t using sorted(set(t)).
+We operate on each item of a text using [f(x) for x in text].
+To derive the vocabulary, collapsing case distinctions and ignoring punctuation, we can write 
+
+set(w.lower() for w in text if w.isalpha()).
+
+We process each word in a text using a for statement, such as for w in t: or for word in text:. This must be followed by the colon character and an indented block of code, to be executed each time through the loop.
+We test a condition using an if statement: if len(word) < 5:. This must be followed by the colon character and an indented block of code, to be executed only if the condition is true.
+A frequency distribution is a collection of items along with their frequency counts (e.g., the words of a text and their frequency of appearance).
+A function is a block of code that has been assigned a name and can be reused. Functions are defined using the def keyword, as in def mult(x, y); x and y are parameters of the function, and act as placeholders for actual data values.
+A function is called by specifying its name followed by zero or more arguments inside parentheses, like this: texts(), mult(3, 4), len(text1).
+
+
+
+ Define a variable my_sent to be a list of words, using the syntax my_sent = ["My", "sent"] (but with your own words, or a favorite saying).
+
+Use ' '.join(my_sent) to convert this into a string.
+Use split() to split the string back into the list form you had to start with.
+
+>>> import nltk
+>>> sentence = """At eight o'clock on Thursday morning
+... Arthur didn't feel very good."""
+>>> tokens = nltk.word_tokenize(sentence)
+>>> tokens
+['At', 'eight', "o'clock", 'on', 'Thursday', 'morning',
+'Arthur', 'did', "n't", 'feel', 'very', 'good', '.']
+>>> tagged = nltk.pos_tag(tokens)
+>>> tagged[0:6]
+[('At', 'IN'), ('eight', 'CD'), ("o'clock", 'JJ'), ('on', 'IN'),
+('Thursday', 'NNP'), ('morning', 'NN')]
+
+Identify named entities:
+
+>>> entities = nltk.chunk.ne_chunk(tagged)
+>>> entities
+Tree('S', [('At', 'IN'), ('eight', 'CD'), ("o'clock", 'JJ'),
+           ('on', 'IN'), ('Thursday', 'NNP'), ('morning', 'NN'),
+       Tree('PERSON', [('Arthur', 'NNP')]),
+           ('did', 'VBD'), ("n't", 'RB'), ('feel', 'VB'),
+           ('very', 'RB'), ('good', 'JJ'), ('.', '.')])
+           
+           
+Display a parse tree:
+
+>>> from nltk.corpus import treebank
+>>> t = treebank.parsed_sents('wsj_0001.mrg')[0]
+>>> t.draw()
+
+
+hp1 = open('hp/hp1.txt)
+raw = hp1.read()
+hp1_list = nltk.word_tokenize(raw)
+corpus = corpus + hp4_list 
+harrypotter = nltk.Text(corpus)
+
+# Replace multiple non-ascii characters with space
+text = re.sub(r'[^\x00-\x7F]+',' ', text)

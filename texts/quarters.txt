@@ -1,0 +1,18 @@
+Quarters
+by Macropedius
+ 
+Deem from an insatiate plaster saint.
+ 
+-------------------
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun quarters
+
+Sense 1
+<noun.artifact> living quarters, quarters
+       => <noun.artifact> housing, lodging, living accommodations
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun quarter
+
+Sense 1
+<noun.quantity> one-fourth, fourth, one-quarter, quarter1, fourth part, twenty-five percent, quartern
+       => <noun.quantity> common fraction, simple fraction

@@ -1,0 +1,41 @@
+Wynfrith
+by Macropedius
+ 
+Bandage with a periodic wynfrith.
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun wynfrith
+
+Sense 1
+<noun.person> Boniface, Saint Boniface, St. Boniface, Winfred, Wynfrith, Apostle of Germany
+       INSTANCE OF=> <noun.person> missionary
+       INSTANCE OF=> <noun.person> saint3
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of verb bandage
+
+Sense 1
+<verb.contact> bind8, bandage3
+       => <verb.contact> fasten1, fix, secure1
+
+Similarity of adj periodic
+
+Sense 1
+<adj.all> periodic (vs. aperiodic), periodical
+       => <adj.all> cyclic
+       => <adj.all> oscillatory, oscillating
+       => <adj.all> diurnal
+       => <adj.all> daily, day-to-day, day-by-day, day-after-day
+       => <adj.all> nightly
+       => <adj.all> weekly, hebdomadal, hebdomadary
+       => <adj.all> semiweekly, biweekly1
+       => <adj.all> hourly
+       => <adj.all> half-hourly
+       => <adj.all> fortnightly, biweekly
+       => <adj.all> annual, yearly
+       => <adj.all> semiannual, biannual, biyearly1, half-yearly
+       => <adj.all> biennial, biyearly2
+       => <adj.all> triennial
+       => <adj.all> monthly
+       => <adj.all> bimonthly, bimestrial
+       => <adj.all> semimonthly, bimonthly1
+       => <adj.all> semestral, semestrial
+       => <adj.all> midweekly
