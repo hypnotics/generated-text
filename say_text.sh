@@ -19,4 +19,6 @@ file=$1
 
 echo $voice
 echo $file
+# -o sounds/$file.aiff
 say -v $voice -f texts/$file -i
+

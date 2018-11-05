@@ -1,0 +1,37 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background: black;
+    color: white;
+}
+
+#start{
+        background-color: #4CAF50;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+}
+
+#stop{
+    display: none;
+    background-color: rgb(150, 5, 60);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    /** display: inline-block; **/
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#map{
+    line-height: 0.9;
+    transform: rotate(270deg);
+}
